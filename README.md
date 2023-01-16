@@ -62,9 +62,13 @@
 
 
 ### My latest blog post
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@poulinakis.kon/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@poulinakis.kon/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@poulinakis.kon/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@poulinakis.kon/0" alt="Latest post"> 
+  
 ### Other Posts
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@poulinakis.kon/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@poulinakis.kon/5" alt="Popular Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@poulinakis.kon/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@poulinakis.kon/4" alt="Popular Article 0"> 
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@poulinakis.kon/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@poulinakis.kon/5" alt="Other post"> 
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@poulinakis.kon/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@poulinakis.kon/4" alt="Other post"> 
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poulinakis-Konstantinos&count_private=true&theme=merko)-->

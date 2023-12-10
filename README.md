@@ -12,11 +12,11 @@
 </div>
 
 ### About me 
-- 💼 Machine Learning Researcher at University of Nicosia
-- 💼 Machine/Deep Learning Engineer  ~~@[Eden Library](https://edenlibrary.ai/eden-viewer)~~ Freelancer
+- 💼 Software Engineer @Deutsche Bank - Investment Banking Technology 
+- 💼 Machine/Deep Learning Engineer/Researcher  ~~@[Eden Library](https://edenlibrary.ai/eden-viewer)~~ ~~@[University of Nicosia]~~
 - 💼 Proffesional [Blogging](https://github.com/Poulinakis-Konstantinos/Blogging-Journey) for ML Startups and Medium
-- 🎓 M.Eng. Electrical & Computer Engineering 
 - 🎓 M.Sc. Data Science & Machine Learning  
+- 🎓 M.Eng. Electrical & Computer Engineering 
 - :heart: Passionate about everything **Deep Learning, Blogging, Software Engineering**
 
 

@@ -12,7 +12,7 @@
 </div>
 
 ### About me 
-- 💼 Software Engineer @Deutsche Bank - Investment Banking Technology 
+- 💼 Software & Machine Learning Engineer @Deutsche Bank - Investment Banking Technology 
 - 💼 Machine/Deep Learning Engineer/Researcher  ~~@[Eden Library](https://edenlibrary.ai/eden-viewer)~~ ~~@[University of Nicosia]~~
 - 💼 Proffesional [Blogging](https://github.com/Poulinakis-Konstantinos/Blogging-Journey) for ML Startups and Medium
 - 🎓 M.Sc. Data Science & Machine Learning  

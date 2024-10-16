@@ -28,17 +28,14 @@
 
 <code><img height="30" title="Python3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="15" title="PyTorch" src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg"></code>
-<code><img height="15" title="C++" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"></code>
+<code><img height="35" title="C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="35" title="Tensorflow" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="35" title="Keras" src="https://github.com/valohai/ml-logos/blob/master/keras.svg"></code>
 <code><img height="25" title="Sklearn" src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg"></code>
-<code><img height="35" title="OpenCV" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
-<code><img height="35" title="Pandas" src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg"></code>
 <code><img height="30" title="Numpy" src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg"></code>
-<code><img height="20" title="Matplotlib" src="https://matplotlib.org/_static/logo2.svg"></code>
 <code><img height="30" title="R" src="https://github.com/get-icon/geticon/raw/master/icons/r-lang.svg"></code>
 <code><img height="30" title="Pyspark" src="https://github.com/valohai/ml-logos/blob/master/spark.svg"></code>
-<code><img height="35" title="Python3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+
 
 <br />
 

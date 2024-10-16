@@ -28,6 +28,7 @@
 
 <code><img height="30" title="Python3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="15" title="PyTorch" src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg"></code>
+<code><img height="15" title="C++" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"></code>
 <code><img height="35" title="Tensorflow" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="35" title="Keras" src="https://github.com/valohai/ml-logos/blob/master/keras.svg"></code>
 <code><img height="25" title="Sklearn" src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg"></code>
@@ -43,9 +44,12 @@
 
 ### MLOps & Cloud :wrench:
 
-<code><img height="30" title="GCP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gcp/gcp.png"></code>
+<code><img height="30" title="GCP" src="https://github.com/AwesomeLogos/google-cloud-icons/blob/main/docs/favicon.svg"></code>
+<code><img height="30" title="Terraform" src="https://github.com/benc-uk/icon-collection/blob/master/logos/terraform-full.svg"></code>
+<code><img height="30" title="Github Actions" src="https://github.com/benc-uk/icon-collection/blob/master/logos/github-2.svg"></code>
 <code><img height="30" title="MlFlow" src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue"></code>
 <code><img height="30" title="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="30" title="Jenkins" src="https://github.com/benc-uk/icon-collection/blob/master/logos/jenkins.svg"></code>
 
 <br />
 

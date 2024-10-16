@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Konstantinos</h1>
-<h3 align="center">Machine Learning & Deep Learning Engineer</h3>
+<h3 align="center">Machine Learning & AI Engineer</h3>
 
 
 <div align="center">
@@ -14,10 +14,10 @@
 ### About me 
 - 💼 Software & Machine Learning Engineer @Deutsche Bank
 - 💼 Machine/Deep Learning Engineer/Researcher  ~~@[Eden Library](https://edenlibrary.ai/eden-viewer)~~ ~~@[University of Nicosia]~~
-- 💼 Proffesional [Blogging](https://github.com/Poulinakis-Konstantinos/Blogging-Journey) for ML Startups and Medium
+- 💼 [Blogging](https://github.com/Poulinakis-Konstantinos/Blogging-Journey)
 - 🎓 M.Sc. Data Science & Machine Learning  
 - 🎓 M.Eng. Electrical & Computer Engineering 
-- :heart: Passionate about everything **Deep Learning, Blogging, Software Engineering**
+- :heart: Passionate about everything **Deep Learning, Blogging, AI & Software Engineering**
 
 
 <div align="center">

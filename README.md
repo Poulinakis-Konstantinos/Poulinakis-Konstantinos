@@ -12,7 +12,7 @@
 </div>
 
 ### About me 
-- 💼 Software & Machine Learning Engineer @Deutsche Bank - Investment Banking Technology 
+- 💼 Software & Machine Learning Engineer @Deutsche Bank
 - 💼 Machine/Deep Learning Engineer/Researcher  ~~@[Eden Library](https://edenlibrary.ai/eden-viewer)~~ ~~@[University of Nicosia]~~
 - 💼 Proffesional [Blogging](https://github.com/Poulinakis-Konstantinos/Blogging-Journey) for ML Startups and Medium
 - 🎓 M.Sc. Data Science & Machine Learning  
@@ -41,10 +41,10 @@
 
 <br />
 
-### MLOps :wrench:
+### MLOps & Cloud :wrench:
 
+<code><img height="30" title="GCP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gcp/gcp.png"></code>
 <code><img height="30" title="MlFlow" src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue"></code>
-<code><img height="30" title="DVC" src="https://img.shields.io/static/v1?style=for-the-badge&message=DVC&color=13ADC7&logo=DVC&logoColor=FFFFFF&label="></code>
 <code><img height="30" title="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
 <br />

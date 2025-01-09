@@ -12,7 +12,8 @@
 </div>
 
 ### About me 
-- 💼 Software & Machine Learning Engineer @Deutsche Bank
+- 💼 AI Solutions Engineer @ Aleph Alpha
+- 💼 Software & Machine Learning Engineer ~~@Deutsche Bank~~
 - 💼 Machine/Deep Learning Engineer/Researcher  ~~@[Eden Library](https://edenlibrary.ai/eden-viewer)~~ ~~@[University of Nicosia]~~
 - 💼 [Blogging](https://github.com/Poulinakis-Konstantinos/Blogging-Journey)
 - 🎓 M.Sc. Data Science & Machine Learning  

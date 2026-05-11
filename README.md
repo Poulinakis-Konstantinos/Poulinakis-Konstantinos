@@ -12,7 +12,8 @@
 </div>
 
 ### About me 
-- 💼 AI Solutions Engineer @ Aleph Alpha
+- 💼 Founder
+- 💼 Sr. AI Solutions Engineer ~~@Aleph Alpha~~
 - 💼 Software & Machine Learning Engineer ~~@Deutsche Bank~~
 - 💼 Machine/Deep Learning Engineer/Researcher  ~~@[Eden Library](https://edenlibrary.ai/eden-viewer)~~ ~~@[University of Nicosia]~~
 - 💼 [Blogging](https://github.com/Poulinakis-Konstantinos/Blogging-Journey)

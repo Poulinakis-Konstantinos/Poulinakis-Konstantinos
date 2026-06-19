@@ -12,7 +12,7 @@
 </div>
 
 ### About me 
-- 💼 Founder
+- 💼 Founder @[ClaimsEvidence](https://claimsevidence.com), the evidence layer for patent licensing and litigation.
 - 💼 Sr. AI Solutions Engineer ~~@Aleph Alpha~~
 - 💼 Machine Learning Engineer ~~@Deutsche Bank~~
 - 💼 AI Researcher  ~~@[University of Nicosia]~~, ~~@[Eden Library](https://edenlibrary.ai/eden-viewer)~~ 
